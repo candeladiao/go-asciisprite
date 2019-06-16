@@ -2,8 +2,8 @@ package sprite
 
 import (
 	//"fmt"
-	//tm "github.com/gdamore/tcell/termbox"
-	tm "github.com/pdevine/go-asciisprite/termbox"
+	//tm "github.com/candeladiao/tcell/termbox"
+	tm "github.com/candeladiao/go-asciisprite/termbox"
 )
 
 type Sprite interface {

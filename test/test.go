@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	sprite "github.com/pdevine/go-asciisprite"
+	sprite "github.com/candeladiao/go-asciisprite"
 )
 
 func main() {

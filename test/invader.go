@@ -6,9 +6,9 @@ import (
 	"math/rand"
 	"time"
 
-	sprite "github.com/pdevine/go-asciisprite"
-	//tm "github.com/gdamore/tcell/termbox"
-	tm "github.com/pdevine/go-asciisprite/termbox"
+	sprite "github.com/candeladiao/go-asciisprite"
+	//tm "github.com/candeladiao/tcell/termbox"
+	tm "github.com/candeladiao/go-asciisprite/termbox"
 )
 
 var allSprites sprite.SpriteGroup

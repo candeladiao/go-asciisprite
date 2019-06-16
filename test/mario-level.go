@@ -3,8 +3,8 @@ package main
 import (
 	"strings"
 
-	sprite "github.com/pdevine/go-asciisprite"
-	tm "github.com/pdevine/go-asciisprite/termbox"
+	sprite "github.com/candeladiao/go-asciisprite"
+	tm "github.com/candeladiao/go-asciisprite/termbox"
 )
 
 const level1 = `

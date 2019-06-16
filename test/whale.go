@@ -4,7 +4,7 @@ import (
 	"math/rand"
 	"time"
 
-	sprite "github.com/pdevine/go-asciisprite"
+	sprite "github.com/candeladiao/go-asciisprite"
 )
 
 const whale_c0 = `xxxxxxxxxxxxxxx##xxxxxxxx.xxxxx
